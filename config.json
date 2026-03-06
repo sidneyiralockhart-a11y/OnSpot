@@ -1,0 +1,10 @@
+{
+  "active_skill": "account_intel",
+  "skills": {
+    "account_intel": {
+      "name": "Account Intelligence Briefer",
+      "script": "skills/account_intel.py",
+      "description": "Generates a pre-call research brief for a target company"
+    }
+  }
+}
