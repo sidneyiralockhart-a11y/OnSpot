@@ -1,4 +1,4 @@
-﻿flask
+flask
 gunicorn
 anthropic
 python-dotenv
